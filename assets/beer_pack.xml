@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<folding enableEffects="true" debugMode="false" showStats="false" calculatePanelCollisions="false" allowMouseInteraction="true" adjustCameraTargetPosition="false" freeCamera="false" startPosition="null" initialCameraX="-0.5400000000000003" initialCameraY="-0.21999999999999997" show3DStats="false" backgroundColor="13421772" rootX="1079.65" rootY="1152.25" originalDocumentHeight="1879" originalDocumentWidth="3254" initialCameraRadius="1879" iconSetID="" autoPlaySequence="false" loopSequence="false" initialCameraTargetX="0" initialCameraTargetY="0" initialCameraTargetZ="0">
+   <lights>
+      <item id="63A5F8E2-C368-DE01-BE74-E371571C8364" name="light_1" type="directional" x="0.5912069680791161" y="-0.7708442810437088" z="0.23722018311456286" color="16512984" ambient="0.4" diffuse="0.7" specular="0.8" attachToCamera="true" fallOff="1000" />
+   </lights>
+   <materials>
+      <item id="front" transparency="100" materialType="document" name="front" color="13421772" resourceMap="d81f1f88-ca0b-4508-a3fe-24a15d85ebfd" ambient="1" ambientColor="16777215" specular="0.8" gloss="47" pageNumber="1" documentIdentifier="" embossMapType="Normalmap" embossMap="68c65f72-67e0-45df-8f1a-4fba3bf12ff2" specularMap="a155f34a-e605-4868-a693-631dd7bdd75e" reflectionIntensity="0" reflectionMask="" reflectionMapName="" mask="b3e6fced-9e65-4fd6-b555-61ca42451154" mirrorMaskOverYAxis="true" renderPanelOutLines="false" invertMask="true" mirrorMask="false" />
+      <item id="back" transparency="100" materialType="document" name="back" color="13421772" resourceMap="d81f1f88-ca0b-4508-a3fe-24a15d85ebfd" ambient="1" ambientColor="16777215" specular="0" gloss="NaN" pageNumber="2" documentIdentifier="" embossMapType="Heightmap" embossMap="" specularMap="" reflectionIntensity="0" reflectionMask="" reflectionMapName="" mask="b3e6fced-9e65-4fd6-b555-61ca42451154" mirrorMaskOverYAxis="true" renderPanelOutLines="false" invertMask="true" mirrorMask="true" />
+   </materials>
+   <panels>
+      <item panelId="872201A9-2D6E-FD0C-E7E9-A24588D95B5E" panelName="root panel" minRot="0" maxRot="0" initialRot="0" startRot="0" endRot="0" hingeOffset="0" panelWidth="1018.59990392" panelHeight="565.40008748" attachedToSide="0" creaseBottom="1.4173" creaseTop="1.4173" creaseLeft="1.4173" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+         <attachedPanels>
+            <item panelId="DD31AFDD-F7E1-DF16-D92E-A2471D94B34E" panelName="panel2" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="0" panelWidth="565.09990334" panelHeight="559.80005172" attachedToSide="3" creaseBottom="0" creaseTop="0" creaseLeft="1.4173" creaseRight="1.4173" ignoreCollisions="false" mouseEnabled="true">
+               <attachedPanels>
+                  <item panelId="767EE034-61B2-914C-19DE-A24C354CCD28" panelName="panel14" minRot="-180" maxRot="20" initialRot="0" startRot="0" endRot="90" hingeOffset="-5.35" panelWidth="546.40004714" panelHeight="377.90008474" attachedToSide="1" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                     <attachedPanels />
+                  </item>
+                  <item panelId="B0E7966D-B441-E035-5818-A24C5AD9B813" panelName="panel15" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="0.7" panelWidth="562.6000696" panelHeight="714.5000474799999" attachedToSide="3" creaseBottom="28.346" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                     <attachedPanels />
+                  </item>
+               </attachedPanels>
+            </item>
+            <item panelId="741C4720-F1A7-FF53-8CCF-A2475C7AC572" panelName="panel3" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="-1" panelWidth="567.6000205400001" panelHeight="561.85003444" attachedToSide="1" creaseBottom="1.4173" creaseTop="1.4173" creaseLeft="1.4173" creaseRight="1.4173" ignoreCollisions="false" mouseEnabled="true">
+               <attachedPanels>
+                  <item panelId="C7617FDB-DC37-130B-A308-A2477DC09472" panelName="panel4" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="-1.05" panelWidth="567.6000205400001" panelHeight="1023.25006522" attachedToSide="2" creaseBottom="0" creaseTop="1.4173" creaseLeft="1.4173" creaseRight="1.4173" ignoreCollisions="false" mouseEnabled="true">
+                     <attachedPanels>
+                        <item panelId="0276DDD3-B520-018A-0FF5-A2479C0E2F55" panelName="panel5" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="-1" panelWidth="567.39989778" panelHeight="57.000121019999995" attachedToSide="2" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                           <attachedPanels />
+                        </item>
+                        <item panelId="344908A9-1BC8-3FDB-EF2F-A24812AD25D6" panelName="panel6" minRot="-19" maxRot="90" initialRot="0" startRot="0" endRot="90" hingeOffset="-0.1" panelWidth="1024.1999396800002" panelHeight="276.30008386000003" attachedToSide="3" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                           <attachedPanels>
+                              <item panelId="6602B5B6-4C15-DD94-523A-A24873F80233" panelName="panel7" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="-0.8" panelWidth="1023.29995418" panelHeight="297.35010692" attachedToSide="2" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                                 <attachedPanels />
+                              </item>
+                           </attachedPanels>
+                        </item>
+                        <item panelId="8B21F124-D2AA-A2C5-373D-A2495CE17EFE" panelName="panel8" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="-0.45" panelWidth="1027.54986996" panelHeight="478.9000008" attachedToSide="1" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                           <attachedPanels />
+                        </item>
+                     </attachedPanels>
+                  </item>
+                  <item panelId="C85A7850-70E0-BD28-132B-A249B5AD9517" panelName="panel9" minRot="-180" maxRot="20" initialRot="0" startRot="0" endRot="90" hingeOffset="0" panelWidth="539.6001252" panelHeight="375.50002892000003" attachedToSide="3" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                     <attachedPanels />
+                  </item>
+                  <item panelId="4DE56D7E-1CE6-7AEC-B787-A24A4E31AE47" panelName="panel10" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="2" panelWidth="551.39999808" panelHeight="714.7500592" attachedToSide="1" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                     <attachedPanels />
+                  </item>
+               </attachedPanels>
+            </item>
+            <item panelId="C66DDF4D-61D7-84C0-059B-A24AB8CF0675" panelName="panel11" minRot="-84" maxRot="90" initialRot="0" startRot="0" endRot="90" hingeOffset="1.6" panelWidth="1016.44985982" panelHeight="279.65001414" attachedToSide="2" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+               <attachedPanels>
+                  <item panelId="03025AA0-D88E-D6F9-01B4-A24BB5C0B602" panelName="panel12" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="-1.2" panelWidth="1014.80012262" panelHeight="297.00003382" attachedToSide="2" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+                     <attachedPanels />
+                  </item>
+               </attachedPanels>
+            </item>
+            <item panelId="E9595E3F-F287-B955-15D1-A24BE9AE0372" panelName="panel13" minRot="-180" maxRot="180" initialRot="0" startRot="0" endRot="90" hingeOffset="-0.3" panelWidth="998.64998912" panelHeight="479.00006218" attachedToSide="0" creaseBottom="0" creaseTop="0" creaseLeft="0" creaseRight="0" ignoreCollisions="false" mouseEnabled="true">
+               <attachedPanels />
+            </item>
+         </attachedPanels>
+      </item>
+   </panels>
+   <sequences>
+      <sequence>
+         <item targetType="cameraAnimation" delay="1000" time="1000" easing="easeInOutCubic" fromXRad="-0.5399945469068309" toXRad="-3.5054455701165335" fromYRad="-0.22000742292606784" toYRad="-0.6699240061222953" fromRadius="1880" toRadius="1780" />
+         <item targetType="cameraAnimation" delay="2000" time="1000" easing="easeInOutCubic" fromXRad="-3.5054455701165335" toXRad="-3.5004453618252285" fromYRad="-0.6699240061222953" toYRad="-0.1649242763777186" fromRadius="1780" toRadius="1780" />
+         <item targetType="cameraTargetAnimation" delay="2000" time="1000" easing="easeInOutCubic" fromX="0" toX="200" fromY="0" toY="0" fromZ="0" toZ="-200" />
+         <item targetType="cameraTargetAnimation" delay="5000" time="1000" easing="easeOutCubic" fromX="200" toX="0" fromY="0" toY="0" fromZ="-200" toZ="0" />
+         <item targetType="cameraAnimation" delay="6000" time="2000" easing="easeOutBounce" fromXRad="-3.5004453618252285" toXRad="3.5645508705034614" fromYRad="-0.1649242763777186" toYRad="-0.4549239444690437" fromRadius="1780" toRadius="1780" />
+         <item targetType="panelAnimation" delay="0" time="1000" easing="easeInOutCubic" panel="DD31AFDD-F7E1-DF16-D92E-A2471D94B34E" from="0" to="90" />
+         <item targetType="panelAnimation" delay="0" time="1000" easing="easeInOutCubic" panel="741C4720-F1A7-FF53-8CCF-A2475C7AC572" from="0" to="90" />
+         <item targetType="panelAnimation" delay="400" time="1000" easing="easeInOutCubic" panel="0276DDD3-B520-018A-0FF5-A2479C0E2F55" from="0" to="150" />
+         <item targetType="panelAnimation" delay="400" time="1000" easing="easeInOutCubic" panel="E9595E3F-F287-B955-15D1-A24BE9AE0372" from="0" to="90" />
+         <item targetType="panelAnimation" delay="200" time="1000" easing="easeInOutCubic" panel="4DE56D7E-1CE6-7AEC-B787-A24A4E31AE47" from="0" to="90" />
+         <item targetType="panelAnimation" delay="400" time="1000" easing="easeInOutCubic" panel="8B21F124-D2AA-A2C5-373D-A2495CE17EFE" from="0" to="90" />
+         <item targetType="panelAnimation" delay="200" time="1000" easing="easeInOutCubic" panel="C7617FDB-DC37-130B-A308-A2477DC09472" from="0" to="90" />
+         <item targetType="panelAnimation" delay="200" time="1000" easing="easeInOutCubic" panel="B0E7966D-B441-E035-5818-A24C5AD9B813" from="0" to="89.80000000000001" />
+         <item targetType="panelAnimation" delay="0" time="1000" easing="easeLinear" panel="767EE034-61B2-914C-19DE-A24C354CCD28" from="0" to="-90" />
+         <item targetType="panelAnimation" delay="2000" time="1500" easing="easeOutBounce" panel="767EE034-61B2-914C-19DE-A24C354CCD28" from="-90" to="20" />
+         <item targetType="panelAnimation" delay="0" time="1000" easing="easeLinear" panel="C85A7850-70E0-BD28-132B-A249B5AD9517" from="0" to="-90" />
+         <item targetType="panelAnimation" delay="2000" time="2000" easing="easeOutBounce" panel="C85A7850-70E0-BD28-132B-A249B5AD9517" from="-90" to="20" />
+         <item targetType="panelAnimation" delay="600" time="2000" easing="easeOutCubic" panel="C66DDF4D-61D7-84C0-059B-A24AB8CF0675" from="0" to="90" />
+         <item targetType="panelAnimation" delay="600" time="2000" easing="easeInOutCubic" panel="344908A9-1BC8-3FDB-EF2F-A24812AD25D6" from="0" to="90" />
+         <item targetType="panelAnimation" delay="0" time="2000" easing="easeInOutCubic" panel="6602B5B6-4C15-DD94-523A-A24873F80233" from="0" to="-90" />
+         <item targetType="panelAnimation" delay="0" time="2000" easing="easeInOutCubic" panel="03025AA0-D88E-D6F9-01B4-A24BB5C0B602" from="0" to="-90" />
+      </sequence>
+   </sequences>
+</folding>
